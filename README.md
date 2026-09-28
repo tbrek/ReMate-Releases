@@ -3,11 +3,11 @@
     <h1>ReMate</h1>
 </div>
 
-ReMate is a Spotify Remote control for Spotify Connect using Spotify API.
+ReMate is a Spotify remote control for Spotify Connect, using the Spotify API.
 
-NB. This app requires premium Spotify account as needs developer account setup required for Web API.
+NB. This app requires a Spotify Premium account, as the Web API needs a developer account to be set up.
 
-The app does not have access to you playlists/songs/etc. It can only control what's being played and alllows you to control the player. It can't switch to non-active Spotify Connect devices such as phones and laptop if Spotify is not running on them. It switch to Echo speakers though.
+The app does not have access to your playlists, songs, etc. It can only control what's being played and allows you to control the player. It can't switch to inactive Spotify Connect devices, such as phones and laptops, if Spotify isn't running on them. It can switch to Echo speakers, though.
 
 [![Download](https://img.shields.io/badge/download-latest-brightgreen?style=flat-square)](https://github.com/tbrek/ReMate-Releases/releases/)
 ![Platform](https://img.shields.io/badge/platform-macOS-blue?style=flat-square)
