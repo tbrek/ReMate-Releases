@@ -75,4 +75,4 @@ Download the "ReMate 1.01.dmg" file from the [latest release](https://github.com
 
 ## License
 
-Ice is available under the [GPL-3.0 license](LICENSE).
+ReMate is available under the [GPL-3.0 license](LICENSE).
